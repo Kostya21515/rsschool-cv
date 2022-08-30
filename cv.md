@@ -28,3 +28,6 @@ int main()
   return 0;
 }
 ```
+# Education
+
+Vitebsk State Technological University: Bussiness-analyst and Software-Developer
