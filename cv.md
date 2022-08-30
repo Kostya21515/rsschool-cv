@@ -9,7 +9,7 @@
 
 # About me
 
-
+I have good interpersonal skills, I am an excellent team worker and want to learn and develop new skills. I am reliable and dependable, often seek new responsibilities within a wide range of employment areas.
 
 
 # Skills
@@ -19,9 +19,12 @@
 * Git
 
 # Code Example
-
-
-
-# Education
-
-Vitebsk State Technological University: Bussiness-analyst and Software-Developer
+```
+#include `<iostream>`
+#include `<cstdlib>`
+int main() 
+{
+  std::cout << "Hello, user!";
+  return 0;
+}
+```
